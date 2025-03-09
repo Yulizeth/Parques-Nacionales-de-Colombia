@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #e8f5e9;
+    color: #333;
+}
+
+header {
+    background-color: #4caf50;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.titulo-principal {
+    font-size: 2.5em;
+}
+
+.titulo-secundario {
+    color: #2e7d32;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #388e3c;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #1b5e20;
+}
+body {
+    margin: 20px; /* Espacio alrededor del borde de la página */
+    padding: 20px; /* Espacio interno dentro del borde del contenido */
+    background-color: #f4f4f4; /* Color de fondo opcional */
+}
+div {
+    margin: 10px; /* Espacio alrededor del contenedor */
+    padding: 15px; /* Espacio interno dentro del contenedor */
+    background-color: #ffffff; /* Color de fondo opcional */
+    border: 1px solid #ccc; /* Borde opcional */
+}
